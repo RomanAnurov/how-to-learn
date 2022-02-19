@@ -98,10 +98,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 375px; 
+  min-height: 375px;
   padding-top: 100px;
   padding-bottom: 100px;
-  
 }
 
 .two-columns {
@@ -116,7 +115,6 @@
   font-size: 18px;
   width: 175px;
   color: #2f80ed;
-  
   margin: 0;
   font-weight: normal;
 }
@@ -251,7 +249,7 @@ margin: 0;
   }
   .feynman__thoto {
     position: absolute;
-    object-fit: contain;    
+    object-fit: contain;
     width: 867px;
     height: 637px;
     bottom: 0;
@@ -295,7 +293,7 @@ margin: 0;
     right: -210px;
     background-image: url(/images/kaufman-triangle.svg);
     top: 0;
-    z-index: 1
+    z-index: 1;
  }
 
  .columns {
@@ -331,7 +329,7 @@ margin: 0;
   left: 0;
   bottom: 0;
   line-height: 25px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: normal;
   margin-top: 18px;
   margin-bottom: 18px;
@@ -346,7 +344,7 @@ margin: 0;
 }
 .column-heading {
   line-height: 30px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: bolt;
   margin: 0;
   
@@ -362,7 +360,7 @@ margin: 0;
 }
 .column-links {
   line-height: 30px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: normal;
   color:#f2f2f2;
   text-decoration: none;
@@ -377,14 +375,14 @@ margin: 0;
 }
 .heading-social {
   line-height: 30px;
-  font-size: 18px ;
-  font-weight: bolt; 
+  font-size: 18px;
+  font-weight: bolt;
   margin: 0;
   
 }
 .column-link {
   line-height: 30px;
-  font-size: 18px ;
+  font-size: 18px;
   font-weight: normal;
   color:#f2f2f2;
   text-decoration: none;
