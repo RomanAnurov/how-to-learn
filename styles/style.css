@@ -351,6 +351,11 @@
   text-decoration: none;
 }
 
+.column-links:hover {
+  color: #2f80ed;
+  text-decoration: underline;
+}
+
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
@@ -370,6 +375,12 @@
   font-weight: normal;
   color: #f2f2f2;
   text-decoration: none;
+}
+
+.column-link:hover {
+  color: #2f80ed;
+  text-decoration: underline;
+
 }
 
 .social-icons {
