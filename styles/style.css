@@ -199,6 +199,7 @@
   position: relative;
   background-color: #f2f2f2;
   height: 890px;
+  /* !!!Извините но в брифе секция блок feynman задана высота блока: 890px; чёрным шрифтом ввеху мелко */
 }
 
 .feynman__title {
