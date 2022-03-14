@@ -1,13 +1,12 @@
-/* Page*/
 
 /* Импортируем файл /normalize.css*/
 
 @import url(../vendor/normalize.css);
 
-@import url(../blocks/page/page.css);
-@import url(../blocks/page/__blockquote/page__blockquote.css);
+/* Page*/
 
-@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+
 /* Импорты Header */
 
 @import url(../blocks/header/header.css);
