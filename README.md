@@ -7,4 +7,4 @@
 * анимации и трансформации  
 * размещение сторннего контента через iframe  
 
-
+* [ссылка на проект](https://romananurov.github.io/how-to-learn/index.html)
